@@ -50,7 +50,7 @@
       <div class="col-lg-12">
         <h1>Kezdőlap</h1>
         <p><h2>Üdvözöllek az oldalon!</h2>Válassz a fenti menüpontok közül a navigációhoz. <br>Az ételek hozzáadásához bejelentkezés szükséges</p>
-                <p><a href="https://github.com/HarDeneD1/phpkaloria"><h3>GitHub elérhetősége</h3></a></p>
+                <p><a href="https://github.com/HarDeneD1/kaloria.git"><h3>GitHub elérhetősége</h3></a></p>
       </div>
     </div>
   </div>
