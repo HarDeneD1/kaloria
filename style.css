@@ -1,0 +1,27 @@
+body {
+    padding-top: 56px;
+    background-color: #494949; 
+    color:#ffffff;
+  
+}
+  .navbar {
+    background-color: #343a40; 
+  }
+
+  .navbar-dark .navbar-toggler-icon {
+    background-color: gray; 
+  }
+
+  .form-group label {
+    color: #ffffff; 
+  }
+
+  .loginbtn{
+text-align: center;
+  }
+
+  button{
+    margin-bottom: 10px; 
+  }
+
+  
